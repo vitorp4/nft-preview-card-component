@@ -80,7 +80,7 @@ body {
 }
 
 h1 {
-  font-size: 18px;
+  font-size: 16px;
   margin-top: 20px;
   cursor: pointer;
   transition: 0.2s;
@@ -98,7 +98,8 @@ p {
 .icon-infos {
   display: flex;
   justify-content: space-between;
-  font-size: 13px;
+  font-size: 12px;
+  margin-top: 16px;
 }
 
 .ethereum, .days-left {
@@ -131,7 +132,7 @@ p {
   display: flex;
   align-items: center;
   gap: 8px;
-  font-size: 13px;
+  font-size: 12px;
 }
 
 .card-footer span {
